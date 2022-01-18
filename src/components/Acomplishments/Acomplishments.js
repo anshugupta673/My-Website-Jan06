@@ -12,7 +12,7 @@ const data = [
 
 const Acomplishments = () => (
   <Section>
-    <SectionTitle>Personal Achievements</SectionTitle>
+    <SectionTitle>Other Achievements</SectionTitle>
     
     <SectionText>
       Mentor @SWOC'21,
@@ -22,6 +22,18 @@ const Acomplishments = () => (
     </SectionText>
 
 
+    <SectionTitle>Certificates</SectionTitle>
+    
+    <SectionText>
+      Linux Kernel Development LFD103 - The Linux Foundation <a href="https://drive.google.com/file/d/1cYaDC8mHNvI5eEjkXx7m3Q_H_835esoL/view?usp=sharing">"LFD103"</a>
+    </SectionText>
+
+    <SectionTitle>Competitive Coding Profiles</SectionTitle>
+    
+    <SectionText>
+      Codechef
+      Interviewbit
+    </SectionText>
 
 
     {/* <Boxes>
@@ -34,6 +46,8 @@ const Acomplishments = () => (
     </Boxes> */}
     <SectionDivider/>
   </Section>
+
+  
 );
 
 export default Acomplishments;

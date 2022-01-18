@@ -107,5 +107,5 @@ export const TimeLineData = [
   { year: 2020, text: 'Several minor projects, got my hands dirty with Web development, CyberSececurity, Systems Programming. Worked as a web developer @CIT', },
   { year: 2021, text: 'Cybersecurity domain Lead @MSC-KIIT, Worked as a team lead for x86_64-decOS', },
   { year: 2022, text: 'Deep dive in cloud automation and DevOps technologies', },
-  { year: 2022, text: '...', },
+  { year: 2023, text: '...', },
 ];

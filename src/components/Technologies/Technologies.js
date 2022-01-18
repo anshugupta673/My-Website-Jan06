@@ -8,7 +8,7 @@ const Technologies = () =>  (
     <SectionDivider divider />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I've worked with a range a technologies in the web development, 
+      I've worked with a range a technologies in the web development to, 
       Cloud automation and, DevOps world.
     </SectionText>
     <List>
@@ -32,7 +32,7 @@ const Technologies = () =>  (
           <ListTitle>Databases</ListTitle>
           <ListParagraph>
             Experience with <br />
-            SQL and MongodB Databases
+            SQL and MongodB Databases, REST APIs
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -43,8 +43,9 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Docker/Kubernetes</ListTitle>
           <ListParagraph>
-            Building, mainaining and <br />
-            debugging a kubernetes cluster
+            Experience with docker, kubernetes building, maintaining and <br />
+            debugging a kubernetes cluster and several 
+            other Cloud automation and DevOps technologies
           </ListParagraph>
         </ListContainer>
       </ListItem>

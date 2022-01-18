@@ -21,7 +21,7 @@ const Hero = (props) => (
           I am Anshu Gupta :)
         </SectionTitle>
         <SectionText>
-        About me, I specialize in cloud automation and DevOps technologies, worked as a web developer with a strong interest in Open source projects.  A pre-final year Computer Science and Engineering student at Kalinga Institute of Industrial Technology, Bhubaneswar. <br /> Want to know more about me, check my resume<a href = "https://drive.google.com/file/d/1nZjudES6BoBrGLUXK9XKA52zs2GDfKuk/view?usp=sharing">"Click for resume..."</a>
+        About me, I specialize in cloud automation and DevOps technologies, worked as a web developer with a strong interest in Open source projects.  A pre-final year Computer Science and Engineering student at Kalinga Institute of Industrial Technology, Bhubaneswar. <br /> Want to know more about me, check my resume <a href = "https://drive.google.com/file/d/1nZjudES6BoBrGLUXK9XKA52zs2GDfKuk/view?usp=sharing">"Click for resume..."</a>
         {/* The purpose of JavaScript Mastery is to help aspiring and established developers to take their development skills to the next level and build awesome apps. */}
         </SectionText>
 
