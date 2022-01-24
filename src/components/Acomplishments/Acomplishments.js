@@ -15,13 +15,14 @@ const Acomplishments = () => (
     <SectionTitle>Other Achievements</SectionTitle>
     
     <SectionText>
-      Mentor @SWOC'21,
-      Cyber Security Lead @Microsft Students Community KIIT, Bhubaneswar,
-      Microsoft Virtual Intern(2020),
-      KIIT Merit Scholar
+      Cyber Security Lead @Microsft Students Community KIIT <br />
+      KPMG Ideation Challenge 2022 (Round 3:Semi-Finals) <br />
+      Mentor @SWOC'21 <br />
+      4 start coder codechef <br />
+      KIIT Merit Scholar <br />
     </SectionText>
 
-
+{/* 
     <SectionTitle>Certificates</SectionTitle>
     
     <SectionText>
@@ -31,9 +32,9 @@ const Acomplishments = () => (
     <SectionTitle>Competitive Coding Profiles</SectionTitle>
     
     <SectionText>
-      Codechef
+      <a href = "">Codechef</a>
       Interviewbit
-    </SectionText>
+    </SectionText> */}
 
 
     {/* <Boxes>

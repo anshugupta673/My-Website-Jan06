@@ -11,6 +11,7 @@ const Footer = () => {
         <LinkColumn>
           <LinkTitle>Call</LinkTitle>
           <LinkItem href="tel:314-343-3432">+91 8353926097</LinkItem>
+          {/* <LinkItem href="tel:314-343-3432">+91 9621536328</LinkItem> */}
         </LinkColumn>
         <LinkColumn>
           <LinkTitle>Email</LinkTitle>
@@ -21,7 +22,7 @@ const Footer = () => {
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>Developing...</Slogan>
+          <Slogan>with lots of love...</Slogan>
         </CompanyContainer>
         <SocialContainer>
           <SocialIcons href="https://github.com/anshugupta673">
